@@ -79,7 +79,8 @@
 		}
 	}
 }
-game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("GameRemoteFunction"):InvokeServer(unpack(args))```
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("GameRemoteFunction"):InvokeServer(unpack(args))
+```
 
 - Script By ModZ/MoeDrStyle
 # ModZ (80%+)
